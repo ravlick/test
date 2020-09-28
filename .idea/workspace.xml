@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6963b159-846b-4dcf-9192-8cfe528f444d" name="Default Changelist" comment="start commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/script.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1i5d3agCugE5CHCI510w7ZIlUJ8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6963b159-846b-4dcf-9192-8cfe528f444d" name="Default Changelist" comment="" />
+      <created>1601201188678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601201188678</updated>
+      <workItem from="1601201189768" duration="1755000" />
+      <workItem from="1601216296776" duration="1699000" />
+      <workItem from="1601279162548" duration="5730000" />
+      <workItem from="1601286127986" duration="1128000" />
+      <workItem from="1601287281357" duration="1005000" />
+      <workItem from="1601288306730" duration="316000" />
+    </task>
+    <task id="LOCAL-00001" summary="my first commit">
+      <created>1601286616661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601286616661</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1601286801476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601286801476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="function and">
+      <created>1601286944240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601286944240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="start commit">
+      <created>1601287387871</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601287387871</updated>
+    </task>
+    <task id="LOCAL-00005" summary="start commit">
+      <created>1601288602669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601288602669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first commit" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="function and" />
+    <MESSAGE value="start commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="start commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601201445951">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="442" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601201445951" />
+    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl" timestamp="1601288454566">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601288454566" />
+    <state x="830" y="452" width="332" height="269" key="Github.ShareDialog" timestamp="1601287977616">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="830" y="452" width="332" height="269" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601287977616" />
+    <state x="732" y="231" width="517" height="651" key="Github.UntrackedFilesDialog" timestamp="1601286534564">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="732" y="231" width="517" height="651" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601286534564" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1601286371219">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1601286371219" />
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601288621775">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601288621775" />
+    <state x="776" y="467" width="430" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287874024">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="776" y="467" width="430" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601287874024" />
+    <state x="799" y="464" width="383" height="185" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601288547317">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="799" y="464" width="383" height="185" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601288547317" />
+    <state x="828" y="346" width="326" height="421" key="svn.repositoryBrowser" timestamp="1601287991491">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="828" y="346" width="326" height="421" key="svn.repositoryBrowser/72.27.1848.1053@72.27.1848.1053" timestamp="1601287991491" />
+  </component>
+</project>
