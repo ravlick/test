@@ -61,11 +61,14 @@
 // Callback function
 
 
+//
+// function myFirstLang(lang , test){
+//     console.log(`Я учу ${lang}`);
+//     test();
+// }
+// function done(){
+//     console.log('Это первый проект');
+// }
+// myFirstLang('Js' , done);
 
-function myFirstLang(lang , test){
-    console.log(`Я учу ${lang}`);
-    test();
-}
-myFirstLang('Js' , function(){
-    console.log('Это первый проект');
-});
+// Object
