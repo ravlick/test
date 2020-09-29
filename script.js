@@ -80,6 +80,9 @@ const options = {
         border :'black',
         background : 'red'
     },
+    makeTest : function(){
+        console.log('test');
+    }
 };
 // for (let key in options){
 //     if(typeof (options[key]) === 'Object') {
@@ -91,4 +94,4 @@ const options = {
 //     }
 //
 // }
-console.log(Object.keys(options));
+options.makeTest();
