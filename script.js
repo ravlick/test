@@ -95,3 +95,6 @@ const options = {
 //
 // }
 options.makeTest();
+// Destructure object
+const {border , background} = options.colors;
+console.log(border);
