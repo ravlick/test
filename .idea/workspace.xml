@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6963b159-846b-4dcf-9192-8cfe528f444d" name="Default Changelist" comment="callback function">
+    <list default="true" id="6963b159-846b-4dcf-9192-8cfe528f444d" name="Default Changelist" comment="object">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -65,7 +65,7 @@
       <workItem from="1601288306730" duration="2040000" />
       <workItem from="1601301632047" duration="3136000" />
       <workItem from="1601318730060" duration="29000" />
-      <workItem from="1601366841991" duration="436000" />
+      <workItem from="1601366841991" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="my first commit">
       <created>1601286616661</created>
@@ -123,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601302170288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="object">
+      <created>1601367432781</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601367432781</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +155,8 @@
     <MESSAGE value="start commit" />
     <MESSAGE value="callback function" />
     <MESSAGE value="learn object" />
-    <option name="LAST_COMMIT_MESSAGE" value="learn object" />
+    <MESSAGE value="object" />
+    <option name="LAST_COMMIT_MESSAGE" value="object" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601201445951">
@@ -171,10 +179,11 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1601286371219" />
-    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601302183447">
-      <screen x="72" y="27" width="1848" height="1053" />
+    <state x="673" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601367441433">
+      <screen x="72" y="27" width="2872" height="1053" />
     </state>
     <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601302183447" />
+    <state x="673" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.2872.1053@72.27.2872.1053" timestamp="1601367441433" />
     <state x="776" y="467" width="430" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287874024">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
