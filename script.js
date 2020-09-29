@@ -81,13 +81,14 @@ const options = {
         background : 'red'
     },
 };
-for (let key in options){
-    if(typeof (options[key]) === 'Object') {
-        for (let i in options[key]){
-            console.log(`Свойство ${i} имеет значение ${options[key][i]}`);
-        }
-    }else{
-        console.log(`Свойство ${key} имеет значение ${options[key]}`);
-    }
-
-}
+// for (let key in options){
+//     if(typeof (options[key]) === 'Object') {
+//         for (let i in options[key]){
+//             console.log(`Свойство ${i} имеет значение ${options[key][i]}`);
+//         }
+//     }else{
+//         console.log(`Свойство ${key} имеет значение ${options[key]}`);
+//     }
+//
+// }
+console.log(Object.keys(options));
