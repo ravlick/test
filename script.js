@@ -72,3 +72,15 @@
 // myFirstLang('Js' , done);
 
 // Object
+const options = {
+    name : 'test',
+    width : 1024,
+    height : 400,
+    colors : {
+        border :'black',
+        background : 'red'
+    },
+};
+for (let key in options){
+    console.log(`Свойство ${key} имеет значение ${options[key]}`);
+}

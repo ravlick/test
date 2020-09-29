@@ -63,7 +63,9 @@
       <workItem from="1601286127986" duration="1128000" />
       <workItem from="1601287281357" duration="1005000" />
       <workItem from="1601288306730" duration="2040000" />
-      <workItem from="1601301632047" duration="513000" />
+      <workItem from="1601301632047" duration="3136000" />
+      <workItem from="1601318730060" duration="29000" />
+      <workItem from="1601366841991" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="my first commit">
       <created>1601286616661</created>
@@ -114,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601294407459</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="learn object">
+      <created>1601302170288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601302170288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,17 +147,18 @@
     <MESSAGE value="function and" />
     <MESSAGE value="start commit" />
     <MESSAGE value="callback function" />
-    <option name="LAST_COMMIT_MESSAGE" value="callback function" />
+    <MESSAGE value="learn object" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn object" />
   </component>
   <component name="WindowStateProjectService">
     <state x="442" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601201445951">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="442" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1601201445951" />
-    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl" timestamp="1601288454566">
+    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl" timestamp="1601318756622">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601288454566" />
+    <state x="766" y="296" width="449" height="522" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1601318756622" />
     <state x="830" y="452" width="332" height="269" key="Github.ShareDialog" timestamp="1601287977616">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -161,10 +171,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1601286371219" />
-    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601294416495">
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2" timestamp="1601302183447">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601294416495" />
+    <state x="590" y="285" width="802" height="543" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601302183447" />
     <state x="776" y="467" width="430" height="186" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601287874024">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
